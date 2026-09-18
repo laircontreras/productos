@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 lista de productos actualizada
+=======
+lista de productos
+>>>>>>> feature_precio
